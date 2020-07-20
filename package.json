@@ -1,0 +1,17 @@
+{
+ "name": "is-a-string",
+ "version": "1.0.0",
+ "description": "A package that checks if an input is a string",
+ "main": "index.js",
+ "scripts": {
+  "test": "jest"
+ },
+ "repository": "https://github.com/Eronmmer/is-a-string",
+ "author": "Erons",
+ "license": "MIT",
+ "private": false,
+ "devDependencies": {
+  "eslint": "^7.5.0",
+  "jest": "^26.1.0"
+ }
+}
