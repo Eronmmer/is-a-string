@@ -1,6 +1,6 @@
 {
  "name": "is-a-string",
- "version": "1.0.0",
+ "version": "1.0.1",
  "description": "A package that checks if an input is a string",
  "main": "index.js",
  "scripts": {
