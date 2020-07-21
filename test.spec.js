@@ -44,7 +44,7 @@ it("Should return false if input is a symbol", () => {
 
 		expect(result).toBe(false);
 	} catch (err) {
-		expect(err).toMatch("error");
+		expect(err.name).toMatch("ReferenceError");
 	}
 });
 
